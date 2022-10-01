@@ -1,3 +1,7 @@
+The folder contains UI for RedBlogs. 
+
+## setup on local
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
