@@ -1,8 +1,13 @@
-# DjangoReact
-
-# django-project
-
-## Setup
+# Red Blogs 
+## Django + ReactJs
+##### dark mode
+<img src="https://i.ibb.co/T2N7nmq/Screenshot-from-2020-05-22-11-07-53.png" alt="Screenshot-from-2020-05-22-11-07-53" border="0">
+<img src="https://i.ibb.co/xq2xGXn/Screenshot-from-2020-05-22-11-07-57.png" alt="Screenshot-from-2020-05-22-11-07-57" border="0">
+<img src="https://i.ibb.co/gSxJX0Z/Screenshot-from-2020-05-22-11-08-00.png" alt="Screenshot-from-2020-05-22-11-08-00" border="0">
+<a href="https://ibb.co/6HzYNwr"><img src="https://i.ibb.co/k4jKMB5/Screenshot-from-2020-04-21-19-44-42.png" alt="Screenshot-from-2020-04-21-19-44-42" border="0"></a>
+<a href="https://ibb.co/PTWYyqg"><img src="https://i.ibb.co/GsMJDzR/Screenshot-from-2020-04-21-19-45-04.png" alt="Screenshot-from-2020-04-21-19-45-04" border="0"></a>
+<a href="https://ibb.co/KL5GCZj"><img src="https://i.ibb.co/rcQtnPG/Screenshot-from-2020-04-21-19-45-50.png" alt="Screenshot-from-2020-04-21-19-45-50" border="0"></a>
+<a href="https://ibb.co/4ggg13q"><img src="https://i.ibb.co/jZZZJsN/Screenshot-from-2020-04-21-19-46-13.png" alt="Screenshot-from-2020-04-21-19-46-13" border="0"></a>
 
 ### Install Django:
 ```bash
@@ -47,37 +52,6 @@ Destroying test database for alias 'default'...
 pip install coverage
 coverage run --source='.' manage.py test
 ```
-
-### Check coverage report:
-```bash
-coverage report
-```
-
-```bash
-Name                                Stmts   Miss  Cover
--------------------------------------------------------
-manage.py                              13      6    54%
-mysite/__init__.py                      0      0   100%
-mysite/settings.py                     18      0   100%
-mysite/urls.py                          3      0   100%
-mysite/wsgi.py                          4      4     0%
-polls/__init__.py                       0      0   100%
-polls/admin.py                          4      0   100%
-polls/apps.py                           4      0   100%
-polls/migrations/0001_initial.py        7      0   100%
-polls/migrations/__init__.py            0      0   100%
-polls/models.py                        20      1    95%
-polls/templates/__init__.py             0      0   100%
-polls/templates/polls/__init__.py       0      0   100%
-polls/tests.py                         57      0   100%
-polls/urls.py                           4      0   100%
-polls/views.py                         28      8    71%
--------------------------------------------------------
-TOTAL                                 162     19    88%
-```
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
