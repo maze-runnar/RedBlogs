@@ -11,7 +11,7 @@
 
 ### Install Django:
 ```bash
-pip install Django
+  pip install Django
 ```
 
 ### Perform database migration:
